@@ -3,10 +3,10 @@
 - [html 문서](font.html)를 참조하시면 logo 생성용 html 코드를 확인하실 수 있습니다.
 
 # 캡처한 이미지
-- landscape
-  <img src="https://github.com/DeepExpress/logo/raw/master/image/landscape.PNG" width="50%"></img>
-- portrait
-  <img src="https://github.com/DeepExpress/logo/raw/master/image/portrait.PNG" width="50%"></img>
+landscape
+<img src="https://github.com/DeepExpress/logo/raw/master/image/landscape.PNG" width="50%"></img>
+portrait
+<img src="https://github.com/DeepExpress/logo/raw/master/image/portrait.PNG" width="30%"></img>
 
 # GitHub 업로드 이미지
 ![GitHub 업로드 이미지](image/DeepExpress.png)
