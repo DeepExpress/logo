@@ -4,10 +4,10 @@
 
 # 캡처한 이미지
 - landscape
-  ![landscape 이미지](images/캡처_02.png) 
+  ![landscape 이미지](image/캡처_02.png) 
 - portrait
-  ![portrait 이미지](images/캡처_01.png)
+  ![portrait 이미지](image/캡처_01.png)
 
 # GitHub 업로드 이미지
-![GitHub 업로드 이미지](images/DeepExpress.png)
+![GitHub 업로드 이미지](image/DeepExpress.png)
 - 420 x 420 픽셀로 생성했습니다.
