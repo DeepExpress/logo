@@ -4,9 +4,9 @@
 
 # 캡처한 이미지
 - landscape
-  ![landscape 이미지](image/landscape.PNG){: width="50"}
+  <img src="https://github.com/DeepExpress/logo/raw/master/image/landscape.PNG" width="50%"></img>
 - portrait
-  ![portrait 이미지](image/portrait.PNG){: width="50"}
+  <img src="https://github.com/DeepExpress/logo/raw/master/image/portrait.PNG" width="50%"></img>
 
 # GitHub 업로드 이미지
 ![GitHub 업로드 이미지](image/DeepExpress.png)
