@@ -4,9 +4,9 @@
 
 # 캡처한 이미지
 - landscape
-  ![landscape 이미지](image/캡처_02.png) 
+  ![landscape 이미지](image/landscape.PNG) 
 - portrait
-  ![portrait 이미지](image/캡처_01.png)
+  ![portrait 이미지](image/portrait.PNG)
 
 # GitHub 업로드 이미지
 ![GitHub 업로드 이미지](image/DeepExpress.png)
