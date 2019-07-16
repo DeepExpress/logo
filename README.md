@@ -9,6 +9,6 @@ landscape
 <img src="https://github.com/DeepExpress/logo/raw/master/image/portrait.PNG" width="30%"></img><br>
 portrait
 
-# GitHub 업로드 이미지
+# GitHub Profile 이미지
 <img src="https://github.com/DeepExpress/logo/raw/master/image/DeepExpress.png" width="30%"></img><br>
 420 x 420 픽셀로 생성했습니다.
