@@ -12,3 +12,6 @@ portrait
 # GitHub Profile 이미지
 <img src="https://github.com/DeepExpress/logo/raw/master/image/DeepExpress.png" width="30%"></img><br>
 420 x 420 픽셀로 생성했습니다.
+
+# Acknowldgment
+- This work was supported by the Industry Core Technology Development Project, 20005062, Development of Artificial Intelligence Robot Autonomous Navigation Technology for Agile Movement in Crowded Space, funded by the Ministry of Trade, industry & Energy (MOTIE, Republic of Korea).
