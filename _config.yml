@@ -1,0 +1,34 @@
+title: DeepExpress
+lang: kr
+description: 밀집군중 사이 민첩기동이 가능한 인공지능 융합 실내외 로봇 자율주행 기술개발
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+# debug:
+#   compress: false
+#   dist: false
+#   extension: true
+
+readme_index:
+  with_frontmatter: true
+
+sass:
+  style: compress
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
